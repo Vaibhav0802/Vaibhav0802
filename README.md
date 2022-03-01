@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaibhav0802
 - 👀 I’m interested in ML, Data Science, Python.
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently exploring more on ML and DL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mukhivaibhav4@gmail.com
 
